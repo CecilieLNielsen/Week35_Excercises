@@ -1,0 +1,6 @@
+entity/Point_.class
+rest/GenericResource.class
+dk/bycecilie/point/Main.class
+entity/Point.class
+rest/ApplicationConfig.class
+.netbeans_automatic_build
