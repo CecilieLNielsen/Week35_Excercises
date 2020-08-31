@@ -2,7 +2,7 @@
 
 Status på opgaver: 
 
-01_Tuesday = Færdig
+01_Tuesday = Færdig.
 
 
 02_Wednesday = Jeg mangler den sidste opgave 5 da jeg havde en opsætningsfejl, og ikke kunne nå videre.  
